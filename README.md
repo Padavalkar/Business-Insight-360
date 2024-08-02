@@ -10,13 +10,13 @@ AtliQ Hardware manufactures and sells products like PCs, mice, and printers to c
 AtliQ Hardware is struggling in Latin America, relying on surveys and intuition for decisions. Previously, they used MS Excel for analysis due to limited data, but with growth, they now have ample data. Therefore, they hired a Data Analyst to make informed decisions using this data.
 
 ### Management’s Dashboard Requirements:
-•	Finance View: Profit and loss statements by product, market, and customer.
+•	**Finance View**: Profit and loss statements by product, market, and customer.
 
-•	Marketing View: Sales data by product.
+•	**Marketing View**: Sales data by product.
 
-•	Supply Chain: Reliability and accuracy metrics for supply chain performance.
+•	**Supply Chain**: Reliability and accuracy metrics for supply chain performance.
 
-•	Executive View: Key insights for executives.
+•	**Executive View**: Key insights for executives.
 
 This Power BI project simulates real-life business scenarios, including recorded stakeholder meetings, feedback loops, and iterative design changes to save time and provide essential metrics in a consolidated report.
 
