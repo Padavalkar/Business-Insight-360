@@ -7,15 +7,17 @@ The Business Insights project is part of the Codebasics Data Analytics Bootcamp.
 AtliQ Hardware manufactures and sells products like PCs, mice, and printers to companies worldwide. Their customers include Croma, Amazon, Neptune, Staples, and Walmart, and they serve both physical stores and e-commerce platforms.
 
 ### Problem Statement
-
 AtliQ Hardware is struggling in Latin America, relying on surveys and intuition for decisions. Previously, they used MS Excel for analysis due to limited data, but with growth, they now have ample data. Therefore, they hired a Data Analyst to make informed decisions using this data.
-**Management’s Dashboard Requirements**:
-•	Finance View: Profit and loss statements by product, market, and customer.
-•	Marketing View: Sales data by product.
-•	Supply Chain: Reliability and accuracy metrics for supply chain performance.
-•	Executive View: Key insights for executives.
+
+### Management’s Dashboard Requirements:
+•	### Finance View: Profit and loss statements by product, market, and customer.
+•	### Marketing View: Sales data by product.
+•	### Supply Chain: Reliability and accuracy metrics for supply chain performance.
+•	### Executive View: Key insights for executives.
+
 This Power BI project simulates real-life business scenarios, including recorded stakeholder meetings, feedback loops, and iterative design changes to save time and provide essential metrics in a consolidated report.
-**Project Execution:**
+
+###Project Execution:
 **Step 1**: Load the data into a MySQL Database and connect it to Power BI.
 **Step 2**: Review and delete default database relationships created by Power BI; create required dimension tables in Power Query.
 **Step 3**: Validate data using tables in Power BI and match values with provided data.
