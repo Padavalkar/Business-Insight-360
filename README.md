@@ -55,7 +55,7 @@ I created 5 different report views for various stakeholders. Here’s an overvie
 **Executive View**: A consolidated report with key metrics like Net Sales, Return on Capital %, Gross Margin %, Net Profit %, Forecast Accuracy %, Market Share, top-selling products, and top customers. Designed for senior stakeholders to get a quick overview without delving into details.
 
 #### Tools Used in Project:
-•**	MS Excel**
+•**MS Excel**
 
 • **MySQL**
 
@@ -86,7 +86,7 @@ I created 5 different report views for various stakeholders. Here’s an overvie
 
 •	Providing comprehensive financial stats and performance metrics on dashboards.
 
-#### Power BI Features Learned & Used:
+### Power BI Features Learned & Used:
 •	**DAX Formulas**: Key measures for building the report (detailed list below).
 
 •	**Data Modeling**: Structuring data relationships.
