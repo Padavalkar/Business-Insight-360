@@ -42,9 +42,9 @@ This Power BI project simulates real-life business scenarios, including recorded
 
 I created 5 different report views for various stakeholders. Here’s an overview:
 
-#### Home Page: The first page includes navigation to all views and a summary of each for easy access.
+Home Page: The first page includes navigation to all views and a summary of each for easy access.
 
-#### Finance View: Shows P&L statements, top/bottom performing products and customers, product segment performance by region, and Year on Year P&L comparison. A button displays Net Sales performance vs. Last Year and vs. Target.
+Finance View: Shows P&L statements, top/bottom performing products and customers, product segment performance by region, and Year on Year P&L comparison. A button displays Net Sales performance vs. Last Year and vs. Target.
 
 #### Sales View: For the sales team to analyze product and customer performance in each region with similar filters as the Finance View.
 
