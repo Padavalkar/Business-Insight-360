@@ -21,7 +21,9 @@ AtliQ Hardware is struggling in Latin America, relying on surveys and intuition 
 This Power BI project simulates real-life business scenarios, including recorded stakeholder meetings, feedback loops, and iterative design changes to save time and provide essential metrics in a consolidated report.
 
 ### Project Execution:
-**Step 1**: Load the data into a MySQL Database and connect it to Power BI.
+
+#### Step 1: Load the data into a MySQL Database and connect it to Power BI.
+
 **Step 2**: Review and delete default database relationships created by Power BI; create required dimension tables in Power Query.
 **Step 3**: Validate data using tables in Power BI and match values with provided data.
 **Step 4**: Transform data, e.g., create a dynamic Last Sales Month Reference table.
