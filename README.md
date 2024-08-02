@@ -11,6 +11,7 @@ AtliQ Hardware is struggling in Latin America, relying on surveys and intuition 
 
 ### Management’s Dashboard Requirements:
 •	Finance View: Profit and loss statements by product, market, and customer.
+
 •	Marketing View: Sales data by product.
 •	Supply Chain: Reliability and accuracy metrics for supply chain performance.
 •	Executive View: Key insights for executives.
