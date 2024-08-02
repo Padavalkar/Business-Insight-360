@@ -5,7 +5,9 @@ The Business Insights project is part of the Codebasics Data Analytics Bootcamp.
 
 ### About AtliQ Hardware
 AtliQ Hardware manufactures and sells products like PCs, mice, and printers to companies worldwide. Their customers include Croma, Amazon, Neptune, Staples, and Walmart, and they serve both physical stores and e-commerce platforms.
-**Problem Statement**
+
+### Problem Statement
+
 AtliQ Hardware is struggling in Latin America, relying on surveys and intuition for decisions. Previously, they used MS Excel for analysis due to limited data, but with growth, they now have ample data. Therefore, they hired a Data Analyst to make informed decisions using this data.
 **Management’s Dashboard Requirements**:
 •	Finance View: Profit and loss statements by product, market, and customer.
