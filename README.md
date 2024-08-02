@@ -55,36 +55,60 @@ I created 5 different report views for various stakeholders. Here’s an overvie
 **Executive View**: A consolidated report with key metrics like Net Sales, Return on Capital %, Gross Margin %, Net Profit %, Forecast Accuracy %, Market Share, top-selling products, and top customers. Designed for senior stakeholders to get a quick overview without delving into details.
 
 #### Tools Used in Project:
-•	MS Excel
-• MySQL
+•**	MS Excel**
+
+• **MySQL**
+
 •	**Power BI**
+
 •	**Power BI Service**
-**Learnings from Project:**
-•	Power BI skills
-•	Data Modeling
-•	Dashboard Creation & Designing
-•	Project Charter
-•	Stakeholder Mapping
-•	Analyzing P&L Statements
-**Project Work:**
+
+### Learnings from Project:
+•	**Power BI skills**
+
+•	**Data Modeling**
+
+•	**Dashboard Creation & Designing**
+
+•	**Project Charter**
+
+•	**Stakeholder Mapping**
+
+•	**Analyzing P&L Statements**
+
+### Project Work:
 **Focus:** Analyzing business transactions such as Profit %, Gross Margin %, Forecast %, and sales comparisons using DAX formulas.
 
-**Learning Outcomes:**
+### Learning Outcomes:
 •	Understanding P&L statements.
+
 •	Comparing product, category, market, and customer performance.
+
 •	Providing comprehensive financial stats and performance metrics on dashboards.
-**Power BI Features Learned & Used:**
+
+#### Power BI Features Learned & Used:
 •	**DAX Formulas**: Key measures for building the report (detailed list below).
+
 •	**Data Modeling**: Structuring data relationships.
+
 •	**Table Creation**: Building tables for data representation.
+
 •	**Creating Tool Tips**: Adding helpful information to visuals.
+
 •	**Creating Switch using Bookmark**: Allowing dynamic view changes.
+
 •	**Creating Dynamic Titles**: Updating titles based on data changes.
+
 •	**Conditional Formatting**: Handling blank results after filtering.
+
 •	**Dynamic Last Refresh Date**: Showing the latest data update.
+
 •	**Different Views**: Tailoring reports for different departments in a single report.
+
 **DAX Formulas Learned**: (List of formulas not provided in the summary)
+
 This project involved both Power BI technical skills and understanding business scenarios to effectively compare and display product, market, and customer performance on dashboards.
+
 This is my first Power BI project, and I've learned that creating a report is just one part of being a Data Analyst. Technical skills, soft skills, teamwork, a problem-solving mindset, and a "get it done" attitude are also essential for success in this role.
 I’m excited to work on more data analytics projects in marketing, finance,logistics and other areas. If you’re a data aspirant looking to start your career as a Data Analyst, please like and share this post!
 
