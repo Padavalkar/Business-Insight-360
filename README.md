@@ -22,21 +22,21 @@ This Power BI project simulates real-life business scenarios, including recorded
 
 ### Project Execution:
 
-#### Step 1: Load the data into a MySQL Database and connect it to Power BI.
+**Step 1**: Load the data into a MySQL Database and connect it to Power BI.
 
-#### Step 2: Review and delete default database relationships created by Power BI; create required dimension tables in Power Query.
+**Step 2**: Review and delete default database relationships created by Power BI; create required dimension tables in Power Query.
 
-#### Step 3: Validate data using tables in Power BI and match values with provided data.
+**Step 3**: Validate data using tables in Power BI and match values with provided data.
 
-#### Step 4: Transform data, e.g., create a dynamic Last Sales Month Reference table.
+**Step 4**: Transform data, e.g., create a dynamic Last Sales Month Reference table.
 
-#### Step 5: Create calculated columns in Power Query (e.g., fiscal_year) and merge tables.
+**Step 5**: Create calculated columns in Power Query (e.g., fiscal_year) and merge tables.
 
-#### Step 6: Perform data modeling using a Star Schema to connect dimension tables with fact tables.
+**Step 6**: Perform data modeling using a Star Schema to connect dimension tables with fact tables.
 
-#### Step 7: Create calculated columns using over 40 DAX formulas, verifying them with MySQL or Excel.
+**Step 7**: Create calculated columns using over 40 DAX formulas, verifying them with MySQL or Excel.
 
-#### Step 8: Optimize the report to reduce file size for easier sharing and access before designing and building dashboards.
+**Step 8**: Optimize the report to reduce file size for easier sharing and access before designing and building dashboards.
 
 ### Building The Dashboard
 
@@ -44,15 +44,15 @@ I created 5 different report views for various stakeholders. Here’s an overvie
 
 **Home Page**: The first page includes navigation to all views and a summary of each for easy access.
 
-Finance View: Shows P&L statements, top/bottom performing products and customers, product segment performance by region, and Year on Year P&L comparison. A button displays Net Sales performance vs. Last Year and vs. Target.
+**Finance View**: Shows P&L statements, top/bottom performing products and customers, product segment performance by region, and Year on Year P&L comparison. A button displays Net Sales performance vs. Last Year and vs. Target.
 
-#### Sales View: For the sales team to analyze product and customer performance in each region with similar filters as the Finance View.
+**Sales View**: For the sales team to analyze product and customer performance in each region with similar filters as the Finance View.
 
-#### Marketing View: Contains Gross Margin %, Net Profit %, Operational Expenses, and Cost of Goods Sold. Helps in deciding marketing budgets and identifying potential customers and markets.
+**Marketing View**: Contains Gross Margin %, Net Profit %, Operational Expenses, and Cost of Goods Sold. Helps in deciding marketing budgets and identifying potential customers and markets.
 
-#### Supply Chain View: Provides data on demand forecasting and inventory management. Shows historical forecast accuracy and highlights issues, like a drop in Accessories segment performance.
+**Supply Chain View**: Provides data on demand forecasting and inventory management. Shows historical forecast accuracy and highlights issues, like a drop in Accessories segment performance.
 
-#### Executive View: A consolidated report with key metrics like Net Sales, Return on Capital %, Gross Margin %, Net Profit %, Forecast Accuracy %, Market Share, top-selling products, and top customers. Designed for senior stakeholders to get a quick overview without delving into details.
+**Executive View**: A consolidated report with key metrics like Net Sales, Return on Capital %, Gross Margin %, Net Profit %, Forecast Accuracy %, Market Share, top-selling products, and top customers. Designed for senior stakeholders to get a quick overview without delving into details.
 
 #### Tools Used in Project:
 •	MS Excel
